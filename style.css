@@ -1,0 +1,19 @@
+.history{
+    background-color: white;
+    width: 25vw;
+    box-shadow: 0px 1px 5px gray;
+    height: 30vh;
+    border-radius: 1vw;
+    padding: 20px;
+    border-left: 1vw solid #fdba74;
+}
+.father-svg{
+    display: flex;
+    width: 25vw;
+    margin-top: -79px;
+    gap: 1vw;
+    justify-content: end;
+}
+.content-paragraph{
+    margin-top: -10px;
+}
